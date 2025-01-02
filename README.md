@@ -9,7 +9,7 @@ Website is generated using [Hugo](https://gohugo.io)
 To generate static assets with Hugo run following command:
 
 ```sh
-hugo build -d docs
+hugo build
 ```
 
 ## Deployment

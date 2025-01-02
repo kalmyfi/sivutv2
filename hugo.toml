@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kalmyfi.github.io/sivutv2/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+publishDir = 'docs'
