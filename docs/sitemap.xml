@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/left-sidebar/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/left-sidebar/</loc>
   </url><url>
-    <loc>http://localhost:1313/right-sidebar/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/right-sidebar/</loc>
   </url><url>
-    <loc>http://localhost:1313/two-sidebar/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/two-sidebar/</loc>
   </url><url>
-    <loc>http://localhost:1313/no-sidebar/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/no-sidebar/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/duis-neque/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/duis-neque/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/example/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sixth/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/sixth/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/lorem-ipsum/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fifth/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/fifth/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fourth/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/fourth/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/third/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/third/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/second/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/posts/first/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/content/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/content/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/examples/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/examples/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sidebar/</loc>
+    <loc>https://kalmyfi.github.io/sivutv2/tags/sidebar/</loc>
   </url>
 </urlset>
