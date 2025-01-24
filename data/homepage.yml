@@ -7,12 +7,11 @@ items:
   - type: highlights
     items_per_row: 3
     items:
-      - title: This Is Important
+      - title: 330
         icon: fa-paper-plane
         content: >
-          Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-          amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-      - title: Also Important
+          Seurassa jäseniä 330. Haluatko mukaan? Liity tästä
+      - title:
         icon: fa-pencil-alt
         content: >
           Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl

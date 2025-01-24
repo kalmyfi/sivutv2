@@ -41,5 +41,5 @@
     weight = 39
 [[main]]
     parent = "Dropdown"
-    name = "Veroeros feugiat"
+    name = "Yhteystiedot"
     weight = 40
