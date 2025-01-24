@@ -1,8 +1,8 @@
 baseURL = "https://kalmyfi.github.io/sivutv2/"
-languageCode = "en-us"
-title = "Arcana for Hugo"
+languageCode = "fi-fin"
+title = "Kalmy Ry"
 theme = "hugo-arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "© Kalmy Ry."
 
 
 [taxonomies]
@@ -20,7 +20,7 @@ copyright = "© Untitled. All rights reserved"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
-        url = "#"
+        url = "https://www.facebook.com/groups/199178809406494"
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"
