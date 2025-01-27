@@ -11,23 +11,23 @@
     <atom:link href="https://kalmyfi.github.io/sivutv2/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Fifth Thing</title>
-      <link>https://kalmyfi.github.io/sivutv2/posts/fifth/</link>
+      <link>https://kalmyfi.github.io/sivutv2/uutiset/fifth/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kalmyfi.github.io/sivutv2/posts/fifth/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/uutiset/fifth/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Fourth Thing</title>
-      <link>https://kalmyfi.github.io/sivutv2/posts/fourth/</link>
+      <link>https://kalmyfi.github.io/sivutv2/uutiset/fourth/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kalmyfi.github.io/sivutv2/posts/fourth/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/uutiset/fourth/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The First Thing</title>
-      <link>https://kalmyfi.github.io/sivutv2/posts/first/</link>
+      <link>https://kalmyfi.github.io/sivutv2/uutiset/first/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kalmyfi.github.io/sivutv2/posts/first/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/uutiset/first/</guid>
       <description>&lt;p&gt;Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet&#xA;mattis, sed a rutrum accumsan sed. Suspendisse eu.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.&lt;/p&gt;</description>
     </item>
   </channel>
