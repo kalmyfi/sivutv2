@@ -8,14 +8,13 @@ items:
     items_per_row: 3
     items:
       - title: 330
-        icon: fa-paper-plane
+        icon: fa-user
         content: >
           Seurassa jäseniä 330. Haluatko mukaan? Liity tästä
-      - title:
-        icon: fa-pencil-alt
+      - title: 130km2
+        icon: fa-vector-square
         content: >
-          Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-          amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+          Käytössä olevaa maa-aluetta
       - title: Probably Important
         icon: fa-wrench
         content: >
@@ -29,7 +28,7 @@ items:
     content_type: posts
     max: 4
   - type: cta
-    contents: Are you ready to continue your quest?
+    contents: Haluatko liittyä jäseneksi?
     button:
-      contents: Insert Coin
+      contents: Liity tästä
       url: "#"
