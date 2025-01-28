@@ -2,7 +2,7 @@
 title: "Metsästysmaja"
 description:
 menu: main
-weight: 50
+weight: 40
 image: images/sisaankaynti.jpg
 ---
 

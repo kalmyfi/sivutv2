@@ -18,26 +18,27 @@
 [[main]]
     parent = "Metsästys"
     name = "Kauriinpyynti 24/25"
-    weight = 11
+    url = '/kauriinpyynti'
+    weight = 80
 [[main]]
     parent = "Metsästys"
     name = "Hirvenpyynti 24"
     identifier = "sub-lorem"
-    weight = 12
+    weight = 81
 [[main]]
     parent = "Metsästys"
     name = "Tilastot"
-    weight = 13
+    weight = 82
 [[main]]
     parent = "Metsästys"
     name = "Vieraskortit"
-    weight = 14
+    weight = 83
 [[main]]
     parent = "Metsästys"
     name = "Saaliskiintiöt"
-    weight = 15
+    weight = 84
 [[main]]
     parent = "Metsästys"
     name = "Koemaastot"
     url = '/koemaastot'
-    weight = 10
+    weight = 85
