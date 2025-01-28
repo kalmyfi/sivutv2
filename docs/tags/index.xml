@@ -30,26 +30,5 @@
       <guid>https://kalmyfi.github.io/sivutv2/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Content</title>
-      <link>https://kalmyfi.github.io/sivutv2/tags/content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kalmyfi.github.io/sivutv2/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Examples</title>
-      <link>https://kalmyfi.github.io/sivutv2/tags/examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kalmyfi.github.io/sivutv2/tags/examples/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sidebar</title>
-      <link>https://kalmyfi.github.io/sivutv2/tags/sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kalmyfi.github.io/sivutv2/tags/sidebar/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

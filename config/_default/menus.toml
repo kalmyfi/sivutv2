@@ -4,10 +4,12 @@
 [[main]]
     parent = "Kokoukset"
     name = "Talvikokous 2025"
+    url = '/talvikokous2025'
     weight = 31
 [[main]]
     parent = "Kokoukset"
     name = "Kesäkokous 2024"
+    url = '/kesäkokous2024'
     weight = 32
 [[main]]
     parent = "Kokoukset"
