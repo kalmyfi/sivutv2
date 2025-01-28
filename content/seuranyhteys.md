@@ -2,7 +2,7 @@
 title: "Seuran yhteystiedot"
 description: "Hallitus"
 menu: main
-weight: 80
+weight: 100
 sidebar_right: sidebar1
 ---
 

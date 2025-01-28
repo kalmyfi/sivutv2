@@ -1,45 +1,40 @@
 [[main]]
-    name = "Dropdown"
+    name = "Kokoukset"
     weight = 30
 [[main]]
-    parent = "Dropdown"
-    name = "Lorem dolor"
+    parent = "Kokoukset"
+    name = "Talvikokous 2025"
     weight = 31
 [[main]]
-    parent = "Dropdown"
-    name = "Magna Phasellus"
+    parent = "Kokoukset"
+    name = "Kesäkokous 2024"
     weight = 32
 [[main]]
-    parent = "Dropdown"
-    name = "Etiam sed tempus"
+    parent = "Kokoukset"
+    name = "Pöytäkirjat"
     weight = 33
 [[main]]
-    parent = "Dropdown"
-    name = "Submenu"
-    weight = 34
+    parent = "Metsästys"
+    name = "Kauriinpyynti 24/25"
+    weight = 11
 [[main]]
-    parent = "Submenu"
-    name = "Lorem dolor"
+    parent = "Metsästys"
+    name = "Hirvenpyynti 24"
     identifier = "sub-lorem"
-    weight = 35
+    weight = 12
 [[main]]
-    parent = "Submenu"
-    name = "Phasellus magna"
-    weight = 36
+    parent = "Metsästys"
+    name = "Tilastot"
+    weight = 13
 [[main]]
-    parent = "Submenu"
-    name = "Magna phasellus"
-    weight = 37
+    parent = "Metsästys"
+    name = "Vieraskortit"
+    weight = 14
 [[main]]
-    parent = "Submenu"
-    name = "Etiam nisl"
-    weight = 38
+    parent = "Metsästys"
+    name = "Saaliskiintiöt"
+    weight = 15
 [[main]]
-    parent = "Submenu"
-    name = "Veroeros feugiat"
-    identifier = "sub-veroeros"
-    weight = 39
-[[main]]
-    parent = "Dropdown"
-    name = "Yhteystiedot"
-    weight = 40
+    parent = "Metsästys"
+    name = "Koemaastot"
+    weight = 10

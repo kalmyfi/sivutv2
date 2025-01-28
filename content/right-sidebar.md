@@ -1,19 +1,21 @@
 ---
-title: "Right Sidebar"
+title: "Säännöt"
 description: "Sidebar on the right, content on the left."
 menu: main
 weight: 60
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
-sidebar_right: sidebar1
+sidebar_right: sidebar2
 ---
+
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
 Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
 consequat etiam lorem ipsum dolor sit amet nullam.
 
 ### And Yet Another Subheading
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
 justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
 ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
