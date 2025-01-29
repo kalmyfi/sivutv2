@@ -7,6 +7,8 @@ weight: 50
 image: images/koemaastot.jpg
 ---
 
+Lataa iso kartta [tästä](/images/koemaastot.jpg)
+
 # Päivämäärät ajokokeille 24/25 kaudelle:
 
 - 25.8.2024. LINT, Haminakallion maasto, Petri Siironen
