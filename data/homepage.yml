@@ -1,9 +1,17 @@
 banner:
   enable: true
   image: "images/suomaisema.jpeg"
-  contents: "Tervetuloa Kalajoen Metsästysyhdistys Ry:n sivuille"
+  contents: ""
 
 items:
+  - type: heading
+    heading: Tervetuloa Kalajoen Metsästysyhdistys Ry:n sivuille
+    contents:
+      Kalajoen Metsästysyhdistys ry on aktiivinen ja perinteikäs metsästysseura, joka on perustettu vuonna 1937.
+      Yhdistyksemme tavoitteena on harjoittaa järkiperäistä metsästystä, riistanhoito- ja luonnonsuojelutoimintaa, ampumaurheilua sekä kenneltoimintaa.
+      Seuran toiminta-alueena on Kalajoen pohjapuoli, jossa sijaitsevat seuran jäsenten käytössä olevat metsästysmaat.
+      Kalmyn vuonna 1954 rakennettu metsästysmaja ampumapaikkoineen sijaitsee Oulaistentien varressa.
+
   - type: highlights
     items_per_row: 3
     items:

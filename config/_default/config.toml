@@ -9,7 +9,7 @@ copyright = "© Kalmy Ry."
     tag = "tags"
 
 [params]
-    description = "A business/corporate style responsive site template."
+    description = "Kalajoen Metsästysyhdistys Ry."
     images = ['images/metaimage.jpg']
     show_post_dates = false
 
