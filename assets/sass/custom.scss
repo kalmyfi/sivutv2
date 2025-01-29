@@ -1,0 +1,10 @@
+/* This file intentionally left blank.
+ * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
+ */
+ table {
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid #333;
+    padding: 0 .2em;
+  }
