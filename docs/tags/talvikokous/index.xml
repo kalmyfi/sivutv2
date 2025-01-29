@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talvikokous on Kalmy Ry</title>
-    <link>http://localhost:1313/sivutv2/tags/talvikokous/</link>
+    <link>https://kalmyfi.github.io/sivutv2/tags/talvikokous/</link>
     <description>Recent content in Talvikokous on Kalmy Ry</description>
     <generator>Hugo</generator>
     <language>fi-fin</language>
     <copyright>© Kalmy Ry.</copyright>
     <lastBuildDate>Wed, 01 Jan 2025 11:08:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sivutv2/tags/talvikokous/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kalmyfi.github.io/sivutv2/tags/talvikokous/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talvikokous 2025</title>
-      <link>http://localhost:1313/sivutv2/posts/talvikokous-2024/</link>
+      <link>https://kalmyfi.github.io/sivutv2/posts/talvikokous-2024/</link>
       <pubDate>Wed, 01 Jan 2025 11:08:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/posts/talvikokous-2024/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/posts/talvikokous-2024/</guid>
       <description>&lt;p&gt;Kalajoen Metsästysyhdistys RY:n TALVIKOKOUS Venteläntalolla torstaina 30.01.2025 klo 19:00&lt;/p&gt;&#xA;&lt;p&gt;Johtokunta kokoontuu klo 18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TERVETULOA!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
