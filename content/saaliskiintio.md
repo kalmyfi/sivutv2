@@ -1,8 +1,8 @@
 ---
 title: "Saaliskiintiö"
 description:
-menu: main
-weight: 40
+menu: Metsästys
+weight: 81
 image:
 ---
 

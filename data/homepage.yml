@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
+  image: "images/suomaisema.jpeg"
   contents: "Tervetuloa Kalajoen Metsästysyhdistys Ry:n sivuille"
 
 items:
@@ -11,20 +11,16 @@ items:
         icon: fa-user
         content: >
           Seurassa jäseniä 330. Haluatko mukaan? Liity tästä
-      - title: 130km2
+      - title: 130
         icon: fa-vector-square
         content: >
-          Käytössä olevaa maa-aluetta
-      - title: Probably Important
-        icon: fa-wrench
+          Käytössä olevaa maa-aluetta n. 130km2
+      - title: 1937
+        icon: fa-calendar-day
         content: >
-          Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-          amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-  - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: Tervetuloa Kalajoen Metsästysyhdistys Ry:n sivuille
+          Jo vuodesta 1937
   - type: posts
-    #heading: Recent Posts
+    heading: Ilmoitustaulu
     content_type: posts
     max: 4
   - type: cta

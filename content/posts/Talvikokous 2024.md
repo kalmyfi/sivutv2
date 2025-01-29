@@ -1,15 +1,14 @@
 ---
-title: "Talvikokous 2025"
-description:
-menu: Kokoukset
-weight: 60
+title: Talvikokous 2025
+date: "2025-01-01T11:08:00"
 image: images/kokous.jpg
-image_alt: "Hello!"
 tags:
-sidebar_right: sidebar2
+  - Talvikokous
+  -
 ---
 
 Kalajoen Metsästysyhdistys RY:n TALVIKOKOUS Venteläntalolla torstaina 30.01.2025 klo 19:00
+
 Johtokunta kokoontuu klo 18:00
 
-### Tervetuloa
+**TERVETULOA!**

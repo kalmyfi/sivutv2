@@ -16,7 +16,8 @@
     name = "Pöytäkirjat"
     weight = 33
 [[main]]
-    name= "Metsästys"
+    name = "Metsästys"
+    identifier = "Metsästys" 
     weight = 80
 [[main]]
     parent = "Metsästys"

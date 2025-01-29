@@ -1,7 +1,7 @@
 ---
 title: "Vieraskortit"
 description:
-menu: main
+menu: Metsästys
 weight:
 image:
 ---

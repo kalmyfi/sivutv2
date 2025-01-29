@@ -3,7 +3,7 @@ title: "Säännöt"
 description: "Kalajoen Metsästysyhdistyksen säännöt."
 menu: main
 weight: 50
-image: images/banner.jpg
+image: images/saannot.jpg
 image_alt: "Hello!"
 tags:
 ---

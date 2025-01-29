@@ -1,7 +1,8 @@
 ---
 title: "Koemaastot"
+identifier:
 description: Kuvassa numeroituna seuran alueella käytössä olevat ajokoe maastot
-menu: main
+menu: Metsästys
 weight: 50
 image: images/koemaastot.jpg
 ---

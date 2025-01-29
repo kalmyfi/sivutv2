@@ -1,7 +1,8 @@
 ---
 title: "Kauriinpyynti 24/25"
+identifier: Metsästys
 description:
-menu: main
+menu: Metsästys
 weight: 80
 image:
 ---

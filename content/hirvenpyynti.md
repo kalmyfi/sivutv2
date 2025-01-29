@@ -1,8 +1,7 @@
 ---
 title: "Hirvenpyynti 24"
-identifier: Metsästys
 description:
-menu: main
+menu: Metsästys
 weight: 81
 image:
 ---
