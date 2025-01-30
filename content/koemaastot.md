@@ -7,7 +7,7 @@ weight: 50
 image: images/koemaastot.jpg
 ---
 
-Lataa iso kartta [tästä](/images/koemaastot.jpg)
+Lataa iso kartta [tästä](static/images/koemaastot.jpg)
 
 # Päivämäärät ajokokeille 24/25 kaudelle:
 

@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etusivu on Kalmy Ry</title>
-    <link>http://localhost:1313/sivutv2/</link>
+    <link>https://kalmyfi.github.io/sivutv2/</link>
     <description>Recent content in Etusivu on Kalmy Ry</description>
     <generator>Hugo</generator>
     <language>fi-fin</language>
     <copyright>© Kalmy Ry.</copyright>
     <lastBuildDate>Wed, 29 Jan 2025 15:35:39 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/sivutv2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kalmyfi.github.io/sivutv2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metsästysmaja</title>
-      <link>http://localhost:1313/sivutv2/metsastysmaja/</link>
+      <link>https://kalmyfi.github.io/sivutv2/metsastysmaja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/metsastysmaja/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/metsastysmaja/</guid>
       <description>&lt;p&gt;Metsästysmajan rakennusvuosi on 1954. Pihapiiriin kuuluu päärakennuksen lisäksi lihankäsittelytilat, sauna, &amp;ldquo;huussi&amp;rdquo;, varasto ja ampumarata.&#xA;Majaa on vuosien mittaan pariin kertaan remontoitu.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ampumapaikka&#34;&gt;Ampumapaikka&lt;/h3&gt;&#xA;&lt;p&gt;Ampumarata on 300m pitkä. Ampumapaikkaa on kunnostettu viimeksi vuonna 2024 korottamalla vallit sekä uusimalla ampumataulut.&lt;/p&gt;&#xA;&lt;p&gt;Ampumapaikkamaksu 15 €/vuosi, poislukien Kalmyn jäsenet ja alle 15&#xA;vuotiaat ampumapaikan käyttäjät.&lt;/p&gt;&#xA;&lt;p&gt;Savikiekkoammunta haulikolla on kielletty!&lt;/p&gt;&#xA;&lt;p&gt;Maksu tilille FI91 4912 6020 0077 83. Maksun viesti: Ampumapaikkamaksu ja ampujan nimi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Koemaastot</title>
-      <link>http://localhost:1313/sivutv2/koemaastot/</link>
+      <link>https://kalmyfi.github.io/sivutv2/koemaastot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/koemaastot/</guid>
-      <description>&lt;p&gt;Lataa iso kartta &lt;a href=&#34;http://localhost:1313/sivutv2/images/koemaastot.jpg&#34;&gt;tästä&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;päivämäärät-ajokokeille-2425-kaudelle&#34;&gt;Päivämäärät ajokokeille 24/25 kaudelle:&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;25.8.2024. LINT, Haminakallion maasto, Petri Siironen&lt;/li&gt;&#xA;&lt;li&gt;14.9.2024. Alavieskan mest, Ville Roimela&lt;/li&gt;&#xA;&lt;li&gt;21.9.2024 HIRV, Pekka Pehkonen&lt;/li&gt;&#xA;&lt;li&gt;21.9.2024 Poliisin ja rajan mestaruus, Jari Fors&lt;/li&gt;&#xA;&lt;li&gt;29.9.2024 PM-koe nartut, Ville Roimela&lt;/li&gt;&#xA;&lt;li&gt;4.10.2024 AJOK, Juha Manninen PERUTTU&lt;/li&gt;&#xA;&lt;li&gt;11.10.2024 KV-koe HIRV, Ville Roimela PERUTTU&lt;/li&gt;&#xA;&lt;li&gt;23.10.2024 ?, Jari Fors&lt;/li&gt;&#xA;&lt;li&gt;23.11.2024 DREAJ PM-koe, Tuomas Laakko&lt;/li&gt;&#xA;&lt;li&gt;6.12.2024 AJOK, Juha Manninen&lt;/li&gt;&#xA;&lt;li&gt;27.12.2024 AJOK, Juha Manninen&lt;/li&gt;&#xA;&lt;li&gt;28.2.2025 KV-erämiesjaot AJOK&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Koemaasto ilmoitetaan viikkoa ennen koetta.&lt;/p&gt;</description>
+      <guid>https://kalmyfi.github.io/sivutv2/koemaastot/</guid>
+      <description>&lt;p&gt;Lataa iso kartta &lt;a href=&#34;static/images/koemaastot.jpg&#34;&gt;tästä&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;päivämäärät-ajokokeille-2425-kaudelle&#34;&gt;Päivämäärät ajokokeille 24/25 kaudelle:&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;25.8.2024. LINT, Haminakallion maasto, Petri Siironen&lt;/li&gt;&#xA;&lt;li&gt;14.9.2024. Alavieskan mest, Ville Roimela&lt;/li&gt;&#xA;&lt;li&gt;21.9.2024 HIRV, Pekka Pehkonen&lt;/li&gt;&#xA;&lt;li&gt;21.9.2024 Poliisin ja rajan mestaruus, Jari Fors&lt;/li&gt;&#xA;&lt;li&gt;29.9.2024 PM-koe nartut, Ville Roimela&lt;/li&gt;&#xA;&lt;li&gt;4.10.2024 AJOK, Juha Manninen PERUTTU&lt;/li&gt;&#xA;&lt;li&gt;11.10.2024 KV-koe HIRV, Ville Roimela PERUTTU&lt;/li&gt;&#xA;&lt;li&gt;23.10.2024 ?, Jari Fors&lt;/li&gt;&#xA;&lt;li&gt;23.11.2024 DREAJ PM-koe, Tuomas Laakko&lt;/li&gt;&#xA;&lt;li&gt;6.12.2024 AJOK, Juha Manninen&lt;/li&gt;&#xA;&lt;li&gt;27.12.2024 AJOK, Juha Manninen&lt;/li&gt;&#xA;&lt;li&gt;28.2.2025 KV-erämiesjaot AJOK&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Koemaasto ilmoitetaan viikkoa ennen koetta.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Säännöt</title>
-      <link>http://localhost:1313/sivutv2/saannot/</link>
+      <link>https://kalmyfi.github.io/sivutv2/saannot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/saannot/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/saannot/</guid>
       <description>&lt;h3 id=&#34;kalajoen-metsästysyhdistys-ryn-säännöt&#34;&gt;Kalajoen Metsästysyhdistys Ry:n säännöt&lt;/h3&gt;&#xA;&lt;h1 id=&#34;1-yhdistyksen-nimi-kotipaikka-perustamisaika-kieli-jäsenliitto-ja--piiri&#34;&gt;1§ YHDISTYKSEN NIMI, KOTIPAIKKA, PERUSTAMISAIKA, KIELI JÄSENLIITTO JA -PIIRI&lt;/h1&gt;&#xA;&lt;p&gt;Yhdistyksen nimi: Kalajoen Metsästysyhdistys ry&lt;/p&gt;&#xA;&lt;p&gt;Kotipaikka: Kalajoen kunta, Oulun lääni&lt;/p&gt;&#xA;&lt;p&gt;Yhdistys on perustettu 1937, ja siitä käytetään näissä säännöissä nimitystä seura.&lt;/p&gt;&#xA;&lt;p&gt;Seuran kieli on suomi.&lt;/p&gt;&#xA;&lt;p&gt;Seura on Suomen Metsästäjäinliiton ja Keski-Pohjanmaan kennelpiiri ry:n, sekä Suomen Ampujainliitto ry:n jäsen. Piirin jäsenenä seura noudattaa piirin sääntöjä ja määräyksiä&lt;/p&gt;&#xA;&lt;h1 id=&#34;2-seuran-tarkoituksena-on-harjoittaa&#34;&gt;2§ Seuran tarkoituksena on harjoittaa:&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;järkiperäistä metsästystä,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;riistanhoito- ja luonnonsuojelutoimintaa,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ampumaurheilua,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kesäkokous 2024</title>
-      <link>http://localhost:1313/sivutv2/kesakokous2024/</link>
+      <link>https://kalmyfi.github.io/sivutv2/kesakokous2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/kesakokous2024/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/kesakokous2024/</guid>
       <description>&lt;p&gt;Kalajoen metsästysyhdistys Ry kesäkokous 8.8.2024 klo 19.00 Kalmyn metsästysmajalla.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kokouksen avaus klo 19.06 läsnä 28 jäsentä.&lt;/li&gt;&#xA;&lt;li&gt;Valittiin kokousvirkailijat: puheenjohtaja, sihteeri, kaksi pöytäkirjan tarkastajaa ja kaksi ääntenlaskijaa,&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;puheenjohtaja Tuukka Saarela&lt;/li&gt;&#xA;&lt;li&gt;sihteeri Hilla Kaarlela&lt;/li&gt;&#xA;&lt;li&gt;pöytäkirjantarkastajat/ääntenlaskijat: Reijo Isokääntä ja Marko Männikkö.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Todettiin kokous laillisesti kokoon kutsutuksi ja päätösvaltaiseksi.&lt;/li&gt;&#xA;&lt;li&gt;Esityslistan läpikäyminen ja hyväksyminen, hyväksytään.&lt;/li&gt;&#xA;&lt;li&gt;Uusiksi koejäseniksi hyväksyttiin: Jaakko Witick, Jarmo Finnilä, Manu Alasuvanto, Samu Väisänen, Kaapo Väisänen, Aida Mäkelä&lt;/li&gt;&#xA;&lt;li&gt;Riistakolmiolaskenta pidettiin lauantaina 27.7. Vetäjänä Juhani Kattilakoski. Pyy 1 Naaras ja 3 poikasta, Teeri 1, Sepelkyyhky 1, Jänis 1.&lt;/li&gt;&#xA;&lt;li&gt;Metsästysajat valtion aikonen mukaan paitsi ei kaurispukin kevätpyyntiä.&lt;/li&gt;&#xA;&lt;li&gt;Rauhoitusalueet: Rauhoitusalueet nettisivujen kartan mukaisesti sis. Esalankangas, Ilkka Myllylän monttu, Kaakkurinneva, Ojalan rauhoitusalue, Konnunsuo(Ponu-Nikkanen), Ainalin palsta. Päivitetään karttaa seuran kotisivulla&lt;/li&gt;&#xA;&lt;li&gt;Rauhoituspäivät:&#xA;Jouluaatto, joulupäivä&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Koemaastot:&#xA;Petri Siironen: 25.8. LINT, Haminakallion maasto&#xA;Jari Fors 1 maastoa 21.9., Poliisin ja rajan mestaruus, 2 maastoa 23.10.,1 maasto 28.2. KV-erämiesajot AJOK&#xA;Juha Manninen 4.10., 6.12., 27.12. AJOK&#xA;Ville Roimela 14.9. Alavieskan mest., 29.9. PM-koe nartut, 11.10. KV-koe HIRV&#xA;Pekka Pehkonen 21.9. HIRV&#xA;Tuomas Laakko 23.11. DREAJ PM-koe&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talvikokous 2025</title>
-      <link>http://localhost:1313/sivutv2/talvikokous2025/</link>
+      <link>https://kalmyfi.github.io/sivutv2/talvikokous2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/talvikokous2025/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/talvikokous2025/</guid>
       <description>&lt;p&gt;Kalajoen Metsästysyhdistys RY:n TALVIKOKOUS Venteläntalolla torstaina 30.01.2025 klo 19:00&#xA;Johtokunta kokoontuu klo 18:00&lt;/p&gt;&#xA;&lt;h3 id=&#34;tervetuloa&#34;&gt;Tervetuloa&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Kauriinpyynti 24/25</title>
-      <link>http://localhost:1313/sivutv2/kauriinpyynti/</link>
+      <link>https://kalmyfi.github.io/sivutv2/kauriinpyynti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/kauriinpyynti/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/kauriinpyynti/</guid>
       <description>&lt;h3 id=&#34;kauriinpyynti-päättynyt&#34;&gt;KAURIINPYYNTI PÄÄTTYNYT!&lt;/h3&gt;&#xA;&lt;p&gt;Metsäkauriin pyynti alkaa 28.09.2024 10kpl.&lt;/p&gt;&#xA;&lt;p&gt;Kaatolupa 1kpl/henkilö, seuruepyynnissä kaato voidaan suorittaa myös sen henkilön lukuun, joka ei ole vielä ampunut kaurista.&#xA;Ampuminen seurueessa ennakkosopimuksen mukaisesti! Yhteen ajoon ammutaan korkeintaan 1 kauris.&lt;/p&gt;&#xA;&lt;p&gt;Kauriin kaadosta heti ilmoitus Kalmy metsästäjät whatsapp ryhmään! Nettisivuille tieto päivitetään whatsapp ryhmän viesteistä kerran viikossa.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;24/25 kauden kaadot&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Päivämäärä&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Paikka&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Uros&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Naaras&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Vasa&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;28.9.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Samuneva&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Isomäki&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;4.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Isomäki&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;11.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Kiviröykkiö&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;9.11.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Esalankangas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5.12.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Haisukangas&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;6.12.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Nassakka&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;13.12.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Myllyläntie&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;14.12.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Pitkäsentie&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;14.12.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Kolhoosi&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Hirvenpyynti 24</title>
-      <link>http://localhost:1313/sivutv2/hirvenpyynti/</link>
+      <link>https://kalmyfi.github.io/sivutv2/hirvenpyynti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/hirvenpyynti/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/hirvenpyynti/</guid>
       <description>&lt;h3 id=&#34;hirvenpyynti-päättynyt&#34;&gt;HIRVENPYYNTI PÄÄTTYNYT!&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;24 kauden kaadot&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Päivämäärä&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Paikka&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Uros&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Naaras&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Vasa&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;05.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;06.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;12.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;13.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;19.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;20.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;26.10.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;02.11.2024&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Saaliskiintiö</title>
-      <link>http://localhost:1313/sivutv2/saaliskiintio/</link>
+      <link>https://kalmyfi.github.io/sivutv2/saaliskiintio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/saaliskiintio/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/saaliskiintio/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Saaliskiintiö kaudelle 24/25&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jänis/Rusakko ei kiintiötä&lt;/li&gt;&#xA;&lt;li&gt;Kauris pyynti alkaa la 28.9.2024 10 kpl + su 1.12.2024 10 kpl. Kaatolupa 1kpl/henkilö, seuruepyynnissä kaato voidaan suorittaa myös sen seurueeseen kuuluvan henkilön lukuun, joka ei ole vielä ampunut Kaurista. Ampuminen seurueessa ennakkosopimuksen mukaisesti! Yhteen ajoon ammutaan korkeintaan 1 kauris. Kauriin kaadosta ilmoitus Kalmy metsästäjät whatsapp ryhmään välittömästi! Ei kaurispukin kevätpyyntiä.&lt;/li&gt;&#xA;&lt;li&gt;Fasaani, Jos istuttaa linnun maastoon, voi sen myös pyytää taikka maksu 20e seuran tilille.&lt;/li&gt;&#xA;&lt;li&gt;Pyy ei kiintiötä&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Riekko ja Peltopyy ja Koppelo ja Naarasteeri rauhoitettu.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Metsäkanalinnut 2 kpl Musta teeri, 1 kpl Ukkometso. Ilmoitusvelvoite metsosta sihteerille. Teeren ja Metson peltopyynti kielletään! Kanalintukiintiö käsittää koko metsästyskauden, myös talvipyynnin.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Johtokunnalla on oikeus muuttaa kiintiöitä tarvittaessa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seuran yhteystiedot</title>
-      <link>http://localhost:1313/sivutv2/seuranyhteys/</link>
+      <link>https://kalmyfi.github.io/sivutv2/seuranyhteys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/seuranyhteys/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/seuranyhteys/</guid>
       <description>&lt;p&gt;Kalajoen Metsästysyhdistys Ry&lt;/p&gt;&#xA;&lt;p&gt;1084672-0&lt;/p&gt;&#xA;&lt;p&gt;Kalajoentie 483&lt;/p&gt;&#xA;&lt;p&gt;85100 Kalajoki&lt;/p&gt;&#xA;&lt;h3 id=&#34;puheenjohtaja&#34;&gt;Puheenjohtaja&lt;/h3&gt;&#xA;&lt;p&gt;Tuukka Saarela&lt;/p&gt;&#xA;&lt;p&gt;041-3107290&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:tuukka.saarela@kotinet.com&#34;&gt;tuukka.saarela@kotinet.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;varapuheenjohtaja&#34;&gt;Varapuheenjohtaja&lt;/h3&gt;&#xA;&lt;p&gt;Erkki Haanpää&lt;/p&gt;&#xA;&lt;p&gt;0400-514860&lt;/p&gt;&#xA;&lt;h3 id=&#34;jäsenet&#34;&gt;Jäsenet&lt;/h3&gt;&#xA;&lt;p&gt;Juhani Kattilakoski&lt;/p&gt;&#xA;&lt;p&gt;050-5335901&lt;/p&gt;&#xA;&lt;p&gt;Mikko Kaarlela&lt;/p&gt;&#xA;&lt;p&gt;044-5355587&lt;/p&gt;&#xA;&lt;p&gt;Jouko Arvo&lt;/p&gt;&#xA;&lt;p&gt;040-5042809&lt;/p&gt;&#xA;&lt;p&gt;Mika Ängeslevä&lt;/p&gt;&#xA;&lt;p&gt;040-0870571&lt;/p&gt;&#xA;&lt;p&gt;Arto Rahkola&lt;/p&gt;&#xA;&lt;p&gt;040 5839358&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uudet sivut</title>
-      <link>http://localhost:1313/sivutv2/posts/uudetsivut/</link>
+      <link>https://kalmyfi.github.io/sivutv2/posts/uudetsivut/</link>
       <pubDate>Wed, 29 Jan 2025 15:35:39 +0200</pubDate>
-      <guid>http://localhost:1313/sivutv2/posts/uudetsivut/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/posts/uudetsivut/</guid>
       <description>&lt;p&gt;Tervetuloa Kalmyn uusille sivuille. Jos huomaat puutteita, ota yhteyttä nettivastaavaan: Jose Juola, &lt;a href=&#34;mailto:jose.juola@gmail.com&#34;&gt;jose.juola@gmail.com&lt;/a&gt; tai 0445356409&lt;/p&gt;</description>
     </item>
     <item>
       <title>KV Eramiesajot</title>
-      <link>http://localhost:1313/sivutv2/posts/kv-eramiesajot/</link>
+      <link>https://kalmyfi.github.io/sivutv2/posts/kv-eramiesajot/</link>
       <pubDate>Wed, 29 Jan 2025 12:08:08 +0200</pubDate>
-      <guid>http://localhost:1313/sivutv2/posts/kv-eramiesajot/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/posts/kv-eramiesajot/</guid>
       <description>&lt;p&gt;28.2.2025 KV-erämiesajot AJOK. Maastokartta löytyy Kalmy sivulta Koemaasto väliehdeltä.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talvikokous 2025</title>
-      <link>http://localhost:1313/sivutv2/posts/talvikokous-2024/</link>
+      <link>https://kalmyfi.github.io/sivutv2/posts/talvikokous-2024/</link>
       <pubDate>Wed, 01 Jan 2025 11:08:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/posts/talvikokous-2024/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/posts/talvikokous-2024/</guid>
       <description>&lt;p&gt;Kalajoen Metsästysyhdistys RY:n TALVIKOKOUS Venteläntalolla torstaina 30.01.2025 klo 19:00&lt;/p&gt;&#xA;&lt;p&gt;Johtokunta kokoontuu klo 18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TERVETULOA!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vieraskortit</title>
-      <link>http://localhost:1313/sivutv2/vieraskortit/</link>
+      <link>https://kalmyfi.github.io/sivutv2/vieraskortit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sivutv2/vieraskortit/</guid>
+      <guid>https://kalmyfi.github.io/sivutv2/vieraskortit/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Vieraskortti eli päivälupa&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hinta on 10€/vieras/päivä, mahdollinen saalis menee isännän kiintiöstä. &lt;strong&gt;Kauriin, Hirven ja Hanhen metsästykseen&lt;/strong&gt; ei myydä vieraskortteja. Maksu seuran tilille, viestiin vieraskortti, päivämäärä mitä kortti koskee ja vieraan ja isännän nimi. Vieraskortti ei ole voimassa vuorokautta vaan sen päivän mille lupa on ostettu.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vuosikortti&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hinta on 70€/hlö/metsästyskausi. Vuosikortilla mahdollista jäniksen, rusakon ja pienpetojen pyynti. Maksu seuran tilille, viestiin vuosikortti ja vuosikortin lunastajan nimi.&lt;/p&gt;&#xA;&lt;h3 id=&#34;tilinumero-fi91-4912-6020-0077-83&#34;&gt;Tilinumero: FI91 4912 6020 0077 83&lt;/h3&gt;</description>
     </item>
   </channel>
