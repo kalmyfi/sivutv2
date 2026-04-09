@@ -6,7 +6,6 @@ weight: 60
 image: images/kokous.jpg
 image_alt: "Hello!"
 tags:
-sidebar_right: sidebar2
 ---
 
 Kalajoen Metsästysyhdistys RY:n TALVIKOKOUS Venteläntalolla torstaina 30.01.2025 klo 19:00

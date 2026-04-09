@@ -24,15 +24,27 @@ copyright = "© Kalmy Ry."
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff"
+            header = "Hyödyllisiä linkkejä"
         [[params.footer.links.links]]
-            title = "Mattis et quis rutrum"
-            url = "#"
+            title = "Suomen Metsästäjäliitto"
+            url = "https://metsastajaliitto.fi"
+        [[params.footer.links.links]]
+            title = "Suomen Riistakeskus"
+            url = "https://riista.fi"
+        [[params.footer.links.links]]
+            title = "OmaRiista"
+            url = "https://oma.riista.fi"
         [[params.footer.links]]
-            header = "More Links to Stuff"
+            header = "Seura"
         [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
-            url = "#"
+            title = "Säännöt"
+            pageref = "/saannot"
+        [[params.footer.links.links]]
+            title = "Seuran yhteystiedot"
+            pageref = "/seuranyhteys"
+        [[params.footer.links.links]]
+            title = "Metsästysmaja"
+            pageref = "/metsastysmaja"
         [params.footer.contact_form]
             enabled = false
             header = "Get In Touch"

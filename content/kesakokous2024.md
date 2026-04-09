@@ -6,7 +6,6 @@ weight: 60
 image: images/banner.jpg
 image_alt: "Hello!"
 tags:
-sidebar_right: sidebar2
 ---
 
 Kalajoen metsästysyhdistys Ry kesäkokous 8.8.2024 klo 19.00 Kalmyn metsästysmajalla.
