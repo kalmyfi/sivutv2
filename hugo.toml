@@ -1,5 +1,1 @@
-baseURL = 'https://kalmyfi.github.io/sivutv2/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-arcana'
 publishDir = 'docs'
