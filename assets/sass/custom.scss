@@ -1,21 +1,279 @@
-/* This file intentionally left blank.
- * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
- */
- table {
-    border-collapse: collapse;
-  }
-  td, th {
-    border: 1px solid #333;
-    padding: 0 .2em;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  }
+/* Custom styles for Kalmy */
 
-  .featured {
-    width: 600px;
-    height: auto;
+/* Modern font import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Base typography */
+body {
+  font-family: 'Inter', 'Source Sans Pro', sans-serif;
+  letter-spacing: -0.01em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
 
+/* Smoother navigation - dark forest */
+#header {
+  background: rgba(26, 36, 24, 0.95);
+  backdrop-filter: blur(10px);
+  padding: 0.8em 0 0 0;
+}
 
+#header h1 {
+  padding-bottom: 0.5em;
+}
 
-  
+/* Logo in header */
+#logo img {
+  height: 80px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 12px;
+  border-radius: 50%;
+}
+
+#nav ul li a {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: color 0.2s ease;
+}
+
+/* Modern banner - taller, better image visibility */
+#banner {
+  background-size: cover;
+  background-position: center;
+  height: 35em !important;
+  position: relative;
+}
+
+#banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(30, 42, 27, 0.3) 0%,
+    rgba(30, 42, 27, 0.1) 50%,
+    rgba(30, 42, 27, 0.4) 100%
+  );
+}
+
+/* Cards and highlights */
+.box.highlight {
+  background: #fff;
+  border-radius: 12px;
+  padding: 2em 1.5em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 12px rgba(0,0,0,0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+.box.highlight:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1), 0 8px 24px rgba(0,0,0,0.06);
+}
+
+.box.highlight .icon {
+  color: #4a6741;
+}
+
+/* Post cards */
+.box.post {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 12px rgba(0,0,0,0.04);
+  border: 1px solid rgba(0,0,0,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.box.post:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1), 0 8px 24px rgba(0,0,0,0.06);
+}
+
+.box.post .image img {
+  border-radius: 8px;
+}
+
+/* Buttons */
+.button {
+  border-radius: 8px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: all 0.2s ease;
+  background: #4a6741;
+  border-color: #4a6741;
+  color: #fff;
+}
+
+.button:hover {
+  background: #3b5434;
+  border-color: #3b5434;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* CTA section - deep forest green */
+#cta {
+  background: #2d3a29;
+}
+
+#cta h2 {
+  color: #d4c5a0;
+}
+
+#cta .button {
+  background: #c4a35a;
+  color: #2d3a29;
+  border-color: #c4a35a;
+}
+
+#cta .button:hover {
+  background: #b8943f;
+  border-color: #b8943f;
+}
+
+/* Section spacing */
+.wrapper {
+  padding: 4em 0;
+}
+
+section header.major h2 {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+section header.major p {
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.7;
+  color: #4a4a4a;
+}
+
+/* Footer - dark earthy */
+#footer {
+  background: #1e2a1b;
+}
+
+#footer h3 {
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+#footer .links a {
+  transition: color 0.2s ease;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+td, th {
+  border: 1px solid #e0e0e0;
+  padding: 0.5em 0.8em;
+}
+
+th {
+  background: #f0ebe0;
+  font-weight: 600;
+}
+
+/* Featured images */
+.featured {
+  width: 600px;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* PDF download cards */
+.pdf-year {
+  margin: 2em 0 0.5em;
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #2d3a29;
+  border-bottom: 2px solid #4a6741;
+  padding-bottom: 0.3em;
+}
+
+.pdf-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.6em;
+  margin-bottom: 0.5em;
+}
+
+.pdf-card {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 0.75em 1em;
+  text-decoration: none !important;
+  color: #2d3a29 !important;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+
+.pdf-card:hover {
+  border-color: #4a6741;
+  box-shadow: 0 3px 10px rgba(74, 103, 65, 0.18);
+  transform: translateY(-2px);
+}
+
+.pdf-card__icon {
+  font-size: 1.5em;
+  color: #c0392b;
+  flex-shrink: 0;
+}
+
+.pdf-card__title {
+  flex: 1;
+  font-weight: 500;
+  font-size: 0.95em;
+}
+
+.pdf-card__btn {
+  background: #4a6741;
+  color: #fff !important;
+  padding: 0.25em 0.75em;
+  border-radius: 5px;
+  font-size: 0.8em;
+  font-weight: 600;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* Two-column stat layout for tilastot */
+.tilastot-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+
+@media (max-width: 768px) {
+  .tilastot-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Links */
+a {
+  transition: color 0.2s ease;
+}

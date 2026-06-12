@@ -33,6 +33,7 @@
 [[main]]
     parent = "Metsästys"
     name = "Tilastot"
+    url = '/tilastot'
     weight = 82
 [[main]]
     parent = "Metsästys"
