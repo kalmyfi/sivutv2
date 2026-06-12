@@ -47,6 +47,6 @@
     weight = 84
 [[main]]
     parent = "Metsästys"
-    name = "Koemaastot"
+    name = "Metsästysalueet"
     url = '/koemaastot'
     weight = 85

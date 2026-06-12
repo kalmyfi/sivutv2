@@ -5,6 +5,9 @@ theme = "hugo-arcana"
 copyright = "© Kalmy Ry."
 
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [taxonomies]
     tag = "tags"
 
