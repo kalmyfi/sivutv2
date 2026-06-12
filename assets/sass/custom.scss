@@ -200,6 +200,136 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Yhteystiedot page */
+.yhteys-seura {
+  background: #2d3a29;
+  color: #fff;
+  border-radius: 12px;
+  padding: 1.4em 1.8em;
+  margin-bottom: 2em;
+
+  &__nimi {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-bottom: 0.4em;
+    i { margin-right: 0.5em; color: #c4a35a; }
+  }
+
+  &__tiedot {
+    display: flex;
+    gap: 1.5em;
+    font-size: 0.9em;
+    opacity: 0.85;
+    flex-wrap: wrap;
+  }
+}
+
+.yhteys-pj-rivi {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+
+  .yhteys-card {
+    width: 100%;
+    max-width: 480px;
+    padding: 1.8em 2em;
+  }
+}
+
+.yhteys-johto-rivi {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  margin-bottom: 1em;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.yhteys-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  margin-top: 0;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.yhteys-card__rooli {
+  word-break: break-word;
+}
+
+.yhteys-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 1.2em 1.4em;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+  }
+
+  &--pj {
+    background: #2d3a29;
+    border: none;
+    color: #fff;
+
+    .yhteys-card__rooli {
+      color: #c4a35a;
+    }
+
+    .yhteys-card__nimi {
+      color: #fff;
+      font-size: 1.3em;
+    }
+
+    .yhteys-card__yhteystiedot a {
+      color: rgba(255,255,255,0.85);
+      &:hover { color: #fff; }
+    }
+  }
+
+  &__rooli {
+    font-size: 0.75em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #4a6741;
+    margin-bottom: 0.3em;
+  }
+
+  &__nimi {
+    font-size: 1.05em;
+    font-weight: 600;
+    color: #2d3a29;
+    margin-bottom: 0.7em;
+  }
+
+  &__yhteystiedot {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+
+    a {
+      font-size: 0.9em;
+      color: #4a6741;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+
+      &:hover { text-decoration: underline; }
+      i { width: 1em; text-align: center; opacity: 0.7; }
+    }
+  }
+}
+
 /* Metsästysalueet page */
 .alue-intro {
   background: #f7f9f6;

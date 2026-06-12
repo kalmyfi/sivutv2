@@ -99,7 +99,7 @@ image:
 {{< tilastot-grid >}}
 
 {{< tilastot-kolumni >}}
-### Hirvenkaadot
+<h3>Hirvenkaadot</h3>
 
 {{< pdf-vuosi "2024" >}}
 {{< pdf "Hirvenkaadot 2024" "/sivutv2/tilastot/hirvenkaadot2024.pdf" >}}
@@ -152,7 +152,7 @@ image:
 {{< /tilastot-kolumni >}}
 
 {{< tilastot-kolumni >}}
-### Kauriinkaadot
+<h3>Kauriinkaadot</h3>
 
 {{< pdf-vuosi "2024" >}}
 {{< pdf "Kauriinkaadot 2024" "/sivutv2/tilastot/kauriinkaadot2024.pdf" >}}
