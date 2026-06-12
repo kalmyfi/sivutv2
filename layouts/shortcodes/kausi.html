@@ -1,0 +1,16 @@
+<div class="kausi-section">
+  <div class="kausi-header">
+    <h2>{{ .Get "otsikko" }}</h2>
+    {{ if eq (.Get "tila") "kaynnissa" }}
+      <span class="kausi-badge kausi-badge--active"><i class="fas fa-circle"></i> Pyynti käynnissä</span>
+    {{ else }}
+      <span class="kausi-badge kausi-badge--ended"><i class="fas fa-check"></i> Pyynti päättynyt</span>
+    {{ end }}
+  </div>
+  <div class="kausi-table-wrap">
+    {{ .Inner }}
+  </div>
+  {{ with .Get "yhteensa" }}
+  <p class="kausi-yhteensa">Yhteensä: <strong>{{ . }}</strong></p>
+  {{ end }}
+</div>

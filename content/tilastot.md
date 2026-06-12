@@ -9,7 +9,47 @@ image:
 {{< tilastot-grid >}}
 
 {{< tilastot-kolumni >}}
-## Hirvenkaadot
+{{% kausi otsikko="Hirvenkaadot 2024" tila="paattynyt" yhteensa="7 hirveä (7 urosta, 0 naarasta, 3 vasaa)" %}}
+| Päivämäärä | Paikka | Uros | Naaras | Vasa |
+| :--------: | :----: | :--: | :----: | :--: |
+| 05.10.2024 |        |  2   |        |  1   |
+| 06.10.2024 |        |      |        |  1   |
+| 12.10.2024 |        |  2   |        |      |
+| 13.10.2024 |        |      |        |  1   |
+| 19.10.2024 |        |  2   |        |      |
+| 20.10.2024 |        |  1   |        |      |
+| 26.10.2024 |        |      |        |  2   |
+| 02.11.2024 |        |      |        |  1   |
+{{% /kausi %}}
+{{< /tilastot-kolumni >}}
+
+{{< tilastot-kolumni >}}
+{{% kausi otsikko="Kauriinkaadot 24/25" tila="paattynyt" yhteensa="10 kaurista (5 urosta, 2 naarasta, 3 vasaa)" %}}
+| Päivämäärä |    Paikka    | Uros | Naaras | Vasa |
+| :--------: | :----------: | :--: | :----: | :--: |
+| 28.9.2024  |   Samuneva   |  1   |        |      |
+| 2.10.2024  |   Isomäki    |  1   |        |      |
+| 4.10.2024  |   Isomäki    |  1   |        |      |
+| 11.10.2024 | Kiviröykkiö  |  1   |        |      |
+| 9.11.2024  | Esalankangas |  1   |        |      |
+| 5.12.2024  | Haisukangas  |      |        |  1   |
+| 6.12.2024  |   Nassakka   |      |        |  1   |
+| 13.12.2024 | Myllyläntie  |  1   |        |      |
+| 14.12.2024 | Pitkäsentie  |      |   1    |      |
+| 14.12.2024 |   Kolhoosi   |      |   1    |      |
+{{% /kausi %}}
+{{< /tilastot-kolumni >}}
+
+{{< /tilastot-grid >}}
+
+---
+
+## Arkisto
+
+{{< tilastot-grid >}}
+
+{{< tilastot-kolumni >}}
+### Hirvenkaadot
 
 {{< pdf-vuosi "2024" >}}
 {{< pdf "Hirvenkaadot 2024" "/sivutv2/tilastot/hirvenkaadot2024.pdf" >}}
@@ -62,7 +102,7 @@ image:
 {{< /tilastot-kolumni >}}
 
 {{< tilastot-kolumni >}}
-## Kauriinkaadot
+### Kauriinkaadot
 
 {{< pdf-vuosi "2024" >}}
 {{< pdf "Kauriinkaadot 2024" "/sivutv2/tilastot/kauriinkaadot2024.pdf" >}}
