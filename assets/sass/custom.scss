@@ -160,15 +160,36 @@ section header.major p {
 /* Footer - dark earthy */
 #footer {
   background: #1e2a1b;
-}
+  padding: 2.5em 0 3em 0 !important;
 
-#footer h3 {
-  font-weight: 600;
-  letter-spacing: 0;
-}
+  .container {
+    margin-bottom: 1.5em !important;
+  }
 
-#footer .links a {
-  transition: color 0.2s ease;
+  h3 {
+    font-weight: 600;
+    letter-spacing: 0;
+    color: #c4a35a;
+  }
+
+  .links a, a {
+    color: rgba(255,255,255,0.75) !important;
+    transition: color 0.2s ease;
+    border-bottom-color: transparent !important;
+
+    &:hover {
+      color: #fff !important;
+    }
+  }
+
+  .icons a {
+    color: rgba(255,255,255,0.6) !important;
+    &:hover { color: #fff !important; }
+  }
+
+  .copyright {
+    color: rgba(255,255,255,0.45) !important;
+  }
 }
 
 /* Tables */
