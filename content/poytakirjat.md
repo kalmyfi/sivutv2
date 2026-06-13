@@ -10,36 +10,36 @@ tags:
 
 ## Viimeisin pöytäkirja
 
-### Kesäkokous 2024 - 8.8.2024
+### Kesäkokous 2026 — 11.6.2026
 
-Kalajoen metsästysyhdistys Ry kesäkokous 8.8.2024 klo 19.00 Kalmyn metsästysmajalla.
+Kalajoen Metsästysyhdistys Ry:n yleinen kesäkokous 11.6.2026 klo 19.00 Kalmyn metsästysmajalla. Läsnä 16 jäsentä.
 
-1. Kokouksen avaus klo 19.06 läsnä 28 jäsentä.
-2. Valittiin kokousvirkailijat: puheenjohtaja, sihteeri, kaksi pöytäkirjan tarkastajaa ja kaksi ääntenlaskijaa,
+**Kokousvirkailijat:** puheenjohtaja Jouko Arvo, sihteeri Hilla Kaarlela, pöytäkirjantarkastajat Reijo Okkonen ja Jouni Alho.
 
-- puheenjohtaja Tuukka Saarela
-- sihteeri Hilla Kaarlela
-- pöytäkirjantarkastajat/ääntenlaskijat: Reijo Isokääntä ja Marko Männikkö.
+**Uusi koejäsen:** Luukas Korva
 
-3. Todettiin kokous laillisesti kokoon kutsutuksi ja päätösvaltaiseksi.
-4. Esityslistan läpikäyminen ja hyväksyminen, hyväksytään.
-5. Uusiksi koejäseniksi hyväksyttiin: Jaakko Witick, Jarmo Finnilä, Manu Alasuvanto, Samu Väisänen, Kaapo Väisänen, Aida Mäkelä
-6. Riistakolmiolaskenta pidettiin lauantaina 27.7. Vetäjänä Juhani Kattilakoski. Pyy 1 Naaras ja 3 poikasta, Teeri 1, Sepelkyyhky 1, Jänis 1.
-7. Metsästysajat valtion aikonen mukaan paitsi ei kaurispukin kevätpyyntiä.
-8. Rauhoitusalueet: Rauhoitusalueet nettisivujen kartan mukaisesti sis. Esalankangas, Ilkka Myllylän monttu, Kaakkurinneva, Ojalan rauhoitusalue, Konnunsuo(Ponu-Nikkanen), Ainalin palsta. Päivitetään karttaa seuran kotisivulla
-9. Rauhoituspäivät: Jouluaatto, joulupäivä
-10. Saaliskiintiöt (katso [Saaliskiintiöt](/sivutv2/saaliskiintio/) -sivu)
-11. Vieraskortit eli päivälupa (katso [Vieraskortit](/sivutv2/vieraskortit/) -sivu)
-12. Muut esille tulevat asiat
-13. Päätettiin kokous klo 20.40
+**Riistakolmiolaskenta** pidetään lauantaina 1.8. Vetäjänä Juhani Kattilakoski.
 
-Pöytäkirjan tarkastajat: Reijo Isokääntä ja Marko Männikkö
+**Metsästysajat** valtion aikojen mukaan. Tarkennetaan myöhemmin.
+
+**Rauhoitusalueet** nettisivujen kartan mukaisesti. Uutena alueena lisätty Isohaantien ja Samunevantien rajaama nurkkaus (Nassakka) sekä Mehtäkyläntien ja Oulaistentien välinen alue. Rauhoitusalueilla rusako- ja kettupyynti sallittu sovittuina yhteisjahtipäivinä.
+
+**Rauhoituspäivät** ja **saaliskiintiöt** tarkennetaan myöhemmin. Kauris rauhoitettu metsästykseltä.
+
+**Leader-hanke:** Kesäkokous valtuutti johtokunnan hakemaan Rieska-Leader -hanketta Haapakankaan ampumapaikan kehittämiseksi.
+
+**Muuta:** Vesilintumetsästyksessä luotiaseen käyttö kielletty merenranta-alueilla koko kauden ajan sekä peltoalueilla syyskuun alkuun asti. Ylilammen kosteikkohanke selvittelyssä (Metka-rahoitus).
+
+Kokous päättyi klo 20.18.
+
+[Lue koko pöytäkirja PDF-muodossa](/sivutv2/poytakirjat/kesakokous2026.pdf)
 
 ---
 
 ## Pöytäkirjat PDF-muodossa
 
 {{< pdf-vuosi "2026" >}}
+{{< pdf "Kesäkokous 2026" "/sivutv2/poytakirjat/kesakokous2026.pdf" >}}
 {{< pdf "Talvikokous 2026" "/sivutv2/poytakirjat/talvikokous2026.pdf" >}}
 {{< /pdf-vuosi >}}
 
