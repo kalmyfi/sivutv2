@@ -2,7 +2,7 @@
 date: "2026-06-13T12:00:00+02:00"
 draft: false
 title: Kesäkokous 2026
-image: images/kokous.jpg
+image: images/kesakokous2026.jpg
 tags:
 ---
 
