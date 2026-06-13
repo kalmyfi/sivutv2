@@ -1,5 +1,6 @@
 [[main]]
     name = "Kokoukset"
+    identifier = "Kokoukset"
     weight = 30
 [[main]]
     parent = "Kokoukset"
