@@ -1,6 +1,6 @@
 ---
-title: "Pöytäkirjat"
-description: "Kokousten pöytäkirjat"
+title: "Kokoukset"
+description: "Kokousten pöytäkirjat ja päätökset"
 menu: Kokoukset
 weight: 60
 image: images/kokous.jpg

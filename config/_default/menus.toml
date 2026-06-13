@@ -1,53 +1,39 @@
 [[main]]
     name = "Kokoukset"
     identifier = "Kokoukset"
+    url = '/poytakirjat'
     weight = 30
 [[main]]
-    parent = "Kokoukset"
-    name = "Talvikokous 2025"
-    url = '/talvikokous2025'
-    weight = 31
-[[main]]
-    parent = "Kokoukset"
-    name = "Kesäkokous 2024"
-    url = '/kesakokous2024'
-    weight = 32
-[[main]]
-    parent = "Kokoukset"
-    name = "Pöytäkirjat"
-    url = '/poytakirjat'
-    weight = 33
-[[main]]
     name = "Metsästys"
-    identifier = "Metsästys" 
+    identifier = "Metsästys"
     weight = 80
 [[main]]
     parent = "Metsästys"
-    name = "Kauriinpyynti 24/25"
-    url = '/kauriinpyynti'
-    weight = 80
-[[main]]
-    parent = "Metsästys"
-    name = "Hirvenpyynti 24"
+    name = "Hirvenpyynti"
     url = '/hirvenpyynti'
     weight = 81
 [[main]]
     parent = "Metsästys"
+    name = "Kauriinpyynti"
+    url = '/kauriinpyynti'
+    weight = 82
+[[main]]
+    parent = "Metsästys"
     name = "Tilastot"
     url = '/tilastot'
-    weight = 82
+    weight = 83
 [[main]]
     parent = "Metsästys"
     name = "Vieraskortit"
     url = '/vieraskortit'
-    weight = 83
+    weight = 84
 [[main]]
     parent = "Metsästys"
     name = "Saaliskiintiöt"
     url = '/saaliskiintio'
-    weight = 84
+    weight = 85
 [[main]]
     parent = "Metsästys"
     name = "Metsästysalueet"
     url = '/koemaastot'
-    weight = 85
+    weight = 86

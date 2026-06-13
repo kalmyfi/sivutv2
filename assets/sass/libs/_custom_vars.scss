@@ -1,0 +1,20 @@
+/* Override theme accent color to hunting green */
+$palette: (
+    bg: #fff,
+    bg-bold: #f5f2eb,
+    fg: #474747,
+    fg-bold: #4c4c4c,
+    fg-light: #999,
+    border: #ddd5c8,
+
+    accent: (
+        bg: #4a6741,
+        fg: #fff
+    ),
+    obscure: (
+        bg: #2d3a29,
+        bg-light: #3b5434,
+        bg-bold: #1e2a1b,
+        fg: #c4c0b4
+    )
+);
