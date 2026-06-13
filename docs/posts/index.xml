@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Uutiset on Kalmy Ry</title>
-		<link>http://localhost:1314/sivutv2/posts/</link>
+		<link>https://kalmyfi.github.io/sivutv2/posts/</link>
 		<description>Recent content in Uutiset on Kalmy Ry</description>
 		<generator>Hugo</generator>
 		<language>fi-fin</language>
@@ -14,26 +14,26 @@
 		
 			<lastBuildDate>Thu, 11 Jun 2026 10:00:00 +0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1314/sivutv2/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://kalmyfi.github.io/sivutv2/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kauriinpyynti rauhoitettu kaudella 25/26</title>
-				<link>http://localhost:1314/sivutv2/posts/kauriinpyynti-rauhoitettu/</link>
+				<link>https://kalmyfi.github.io/sivutv2/posts/kauriinpyynti-rauhoitettu/</link>
 				<pubDate>Thu, 11 Jun 2026 10:00:00 +0300</pubDate>
-				<guid>http://localhost:1314/sivutv2/posts/kauriinpyynti-rauhoitettu/</guid>
-				<description>&lt;p&gt;Kalajoen Metsästysyhdistys Ry:n kesäkokouksessa 11.6.2026 päätettiin &lt;strong&gt;rauhoittaa kauris metsästykseltä&lt;/strong&gt; kaudella 2025/26.&lt;/p&gt;&#xA;&lt;p&gt;Saaliskiintiöt vahvistetaan lopullisesti myöhemmin. Tarkemmat tiedot löytyvät kesäkokouksen &lt;a href=&#34;http://localhost:1314/sivutv2/poytakirjat/&#34;&gt;pöytäkirjasta&lt;/a&gt;.&lt;/p&gt;</description>
+				<guid>https://kalmyfi.github.io/sivutv2/posts/kauriinpyynti-rauhoitettu/</guid>
+				<description>&lt;p&gt;Kalajoen Metsästysyhdistys Ry:n kesäkokouksessa 11.6.2026 päätettiin &lt;strong&gt;rauhoittaa kauris metsästykseltä&lt;/strong&gt; kaudella 2025/26.&lt;/p&gt;&#xA;&lt;p&gt;Saaliskiintiöt vahvistetaan lopullisesti myöhemmin. Tarkemmat tiedot löytyvät kesäkokouksen &lt;a href=&#34;https://kalmyfi.github.io/sivutv2/poytakirjat/&#34;&gt;pöytäkirjasta&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kesäkokous 2026</title>
-				<link>http://localhost:1314/sivutv2/posts/kesakokous2026/</link>
+				<link>https://kalmyfi.github.io/sivutv2/posts/kesakokous2026/</link>
 				<pubDate>Thu, 11 Jun 2026 10:00:00 +0300</pubDate>
-				<guid>http://localhost:1314/sivutv2/posts/kesakokous2026/</guid>
-				<description>&lt;p&gt;Kalajoen Metsästysyhdistys Ry:n kesäkokous pidettiin 11.6.2026 Kalmyn metsästysmajalla. Kokouksessa päätettiin mm. rauhoitusalueista, saaliskiintiöistä ja Leader-hankeen hakemisesta Haapakankaan ampumapaikan kehittämiseksi. Uudeksi koejäseneksi hyväksyttiin Luukas Korva.&lt;/p&gt;&#xA;&lt;p&gt;Kauris on rauhoitettu metsästykseltä tulevalla kaudella. Rauhoituspäivät ja lopulliset kiintiöt tarkennetaan myöhemmin.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1314/sivutv2/poytakirjat/&#34;&gt;Lue koko pöytäkirja&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>https://kalmyfi.github.io/sivutv2/posts/kesakokous2026/</guid>
+				<description>&lt;p&gt;Kalajoen Metsästysyhdistys Ry:n kesäkokous pidettiin 11.6.2026 Kalmyn metsästysmajalla. Kokouksessa päätettiin mm. rauhoitusalueista, saaliskiintiöistä ja Leader-hankeen hakemisesta Haapakankaan ampumapaikan kehittämiseksi. Uudeksi koejäseneksi hyväksyttiin Luukas Korva.&lt;/p&gt;&#xA;&lt;p&gt;Kauris on rauhoitettu metsästykseltä tulevalla kaudella. Rauhoituspäivät ja lopulliset kiintiöt tarkennetaan myöhemmin.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kalmyfi.github.io/sivutv2/poytakirjat/&#34;&gt;Lue koko pöytäkirja&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Uudet sivut</title>
-				<link>http://localhost:1314/sivutv2/posts/uudetsivut/</link>
+				<link>https://kalmyfi.github.io/sivutv2/posts/uudetsivut/</link>
 				<pubDate>Wed, 29 Jan 2025 15:35:39 +0200</pubDate>
-				<guid>http://localhost:1314/sivutv2/posts/uudetsivut/</guid>
+				<guid>https://kalmyfi.github.io/sivutv2/posts/uudetsivut/</guid>
 				<description>&lt;p&gt;Tervetuloa Kalmyn uusille sivuille. Jos huomaat puutteita, ota yhteyttä nettivastaavaan: Jose Juola, &lt;a href=&#34;mailto:jose.juola@gmail.com&#34;&gt;jose.juola@gmail.com&lt;/a&gt; tai 0445356409&lt;/p&gt;</description>
 			</item>
 	</channel>
