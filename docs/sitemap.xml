@@ -2,35 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kalmyfi.github.io/sivutv2/</loc>
+    <loc>http://localhost:1314/sivutv2/</loc>
+    <lastmod>2026-06-11T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/posts/</loc>
+    <lastmod>2026-06-11T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/metsastysmaja/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/koemaastot/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/saannot/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/poytakirjat/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/kauriinpyynti/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/hirvenpyynti/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/tilastot/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/vieraskortit/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/saaliskiintio/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/seuranyhteys/</loc>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/posts/kauriinpyynti-rauhoitettu/</loc>
+    <lastmod>2026-06-11T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/posts/kesakokous2026/</loc>
+    <lastmod>2026-06-11T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1314/sivutv2/posts/uudetsivut/</loc>
     <lastmod>2025-01-29T15:35:39+02:00</lastmod>
   </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/posts/</loc>
-    <lastmod>2025-01-29T15:35:39+02:00</lastmod>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/metsastysmaja/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/koemaastot/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/saannot/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/poytakirjat/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/kauriinpyynti/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/hirvenpyynti/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/tilastot/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/vieraskortit/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/saaliskiintio/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/seuranyhteys/</loc>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/posts/uudetsivut/</loc>
-    <lastmod>2025-01-29T15:35:39+02:00</lastmod>
-  </url><url>
-    <loc>https://kalmyfi.github.io/sivutv2/tags/</loc>
+    <loc>http://localhost:1314/sivutv2/tags/</loc>
   </url>
 </urlset>

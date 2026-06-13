@@ -1,5 +1,5 @@
 ---
-date: "2026-06-13T13:00:00+02:00"
+date: "2026-06-11T10:00:00+03:00"
 draft: false
 title: Kauriinpyynti rauhoitettu kaudella 25/26
 image: images/kauris.jpg
