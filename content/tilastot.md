@@ -102,51 +102,51 @@ image:
 <h3>Hirvenkaadot</h3>
 
 {{< pdf-vuosi "2024" >}}
-{{< pdf "Hirvenkaadot 2024" "/sivutv2/tilastot/hirvenkaadot2024.pdf" >}}
+{{< pdf "Hirvenkaadot 2024" "/tilastot/hirvenkaadot2024.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2023" >}}
-{{< pdf "Hirvenkaadot 2023" "/sivutv2/tilastot/hirvenkaadot2023.pdf" >}}
+{{< pdf "Hirvenkaadot 2023" "/tilastot/hirvenkaadot2023.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2022" >}}
-{{< pdf "Hirvenkaadot 2022" "/sivutv2/tilastot/hirvenkaadot2022.pdf" >}}
+{{< pdf "Hirvenkaadot 2022" "/tilastot/hirvenkaadot2022.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2021" >}}
-{{< pdf "Hirvenkaadot 2021" "/sivutv2/tilastot/hirvenkaadot2021.pdf" >}}
+{{< pdf "Hirvenkaadot 2021" "/tilastot/hirvenkaadot2021.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2020" >}}
-{{< pdf "Hirvenkaadot 2020" "/sivutv2/tilastot/hirvenkaadot2020.pdf" >}}
+{{< pdf "Hirvenkaadot 2020" "/tilastot/hirvenkaadot2020.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2019" >}}
-{{< pdf "Hirvenkaadot 2019" "/sivutv2/tilastot/hirvenkaadot2019.pdf" >}}
+{{< pdf "Hirvenkaadot 2019" "/tilastot/hirvenkaadot2019.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2018" >}}
-{{< pdf "Hirvenkaadot 2018" "/sivutv2/tilastot/hirvenkaadot2018.pdf" >}}
+{{< pdf "Hirvenkaadot 2018" "/tilastot/hirvenkaadot2018.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2017" >}}
-{{< pdf "Hirvenkaadot 2017" "/sivutv2/tilastot/hirvenkaadot2017.pdf" >}}
+{{< pdf "Hirvenkaadot 2017" "/tilastot/hirvenkaadot2017.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2016" >}}
-{{< pdf "Hirvenkaadot 2016" "/sivutv2/tilastot/hirvenkaadot2016.pdf" >}}
+{{< pdf "Hirvenkaadot 2016" "/tilastot/hirvenkaadot2016.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2015" >}}
-{{< pdf "Hirvenkaadot 2015" "/sivutv2/tilastot/hirvenkaadot2015.pdf" >}}
+{{< pdf "Hirvenkaadot 2015" "/tilastot/hirvenkaadot2015.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2014" >}}
-{{< pdf "Hirvenkaadot 2014" "/sivutv2/tilastot/hirvenkaadot2014.pdf" >}}
+{{< pdf "Hirvenkaadot 2014" "/tilastot/hirvenkaadot2014.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2013" >}}
-{{< pdf "Hirvenkaadot 2013" "/sivutv2/tilastot/hirvenkaadot2013.pdf" >}}
+{{< pdf "Hirvenkaadot 2013" "/tilastot/hirvenkaadot2013.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< /tilastot-kolumni >}}
@@ -155,55 +155,55 @@ image:
 <h3>Kauriinkaadot</h3>
 
 {{< pdf-vuosi "2024" >}}
-{{< pdf "Kauriinkaadot 2024" "/sivutv2/tilastot/kauriinkaadot2024.pdf" >}}
+{{< pdf "Kauriinkaadot 2024" "/tilastot/kauriinkaadot2024.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2022" >}}
-{{< pdf "Kauriinkaadot 2022" "/sivutv2/tilastot/kauriinkaadot2022.pdf" >}}
+{{< pdf "Kauriinkaadot 2022" "/tilastot/kauriinkaadot2022.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2021" >}}
-{{< pdf "Kauriinkaadot 2021" "/sivutv2/tilastot/kauriinkaadot2021.pdf" >}}
+{{< pdf "Kauriinkaadot 2021" "/tilastot/kauriinkaadot2021.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2020" >}}
-{{< pdf "Kauriinkaadot 2020" "/sivutv2/tilastot/kauriinkaadot2020.pdf" >}}
+{{< pdf "Kauriinkaadot 2020" "/tilastot/kauriinkaadot2020.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2019" >}}
-{{< pdf "Kauriinkaadot 2019" "/sivutv2/tilastot/kauriinkaadot2019.pdf" >}}
+{{< pdf "Kauriinkaadot 2019" "/tilastot/kauriinkaadot2019.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2018" >}}
-{{< pdf "Kauriinkaadot 2018" "/sivutv2/tilastot/kauriinkaadot2018.pdf" >}}
+{{< pdf "Kauriinkaadot 2018" "/tilastot/kauriinkaadot2018.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2017" >}}
-{{< pdf "Kauriinkaadot 2017" "/sivutv2/tilastot/kauriinkaadot2017.pdf" >}}
+{{< pdf "Kauriinkaadot 2017" "/tilastot/kauriinkaadot2017.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2016" >}}
-{{< pdf "Kauriinkaadot 2016" "/sivutv2/tilastot/kauriinkaadot2016.pdf" >}}
+{{< pdf "Kauriinkaadot 2016" "/tilastot/kauriinkaadot2016.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2015" >}}
-{{< pdf "Kauriinkaadot 2015" "/sivutv2/tilastot/kauriinkaadot2015.pdf" >}}
+{{< pdf "Kauriinkaadot 2015" "/tilastot/kauriinkaadot2015.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2014" >}}
-{{< pdf "Kauriinkaadot 2014" "/sivutv2/tilastot/kauriinkaadot2014.pdf" >}}
+{{< pdf "Kauriinkaadot 2014" "/tilastot/kauriinkaadot2014.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2013" >}}
-{{< pdf "Kauriinkaadot 2013" "/sivutv2/tilastot/kauriinkaadot2013.pdf" >}}
+{{< pdf "Kauriinkaadot 2013" "/tilastot/kauriinkaadot2013.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2012" >}}
-{{< pdf "Kauriinkaadot 2012" "/sivutv2/tilastot/kauriinkaadot2012.pdf" >}}
+{{< pdf "Kauriinkaadot 2012" "/tilastot/kauriinkaadot2012.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< pdf-vuosi "2011" >}}
-{{< pdf "Kauriinkaadot 2011" "/sivutv2/tilastot/kauriinkaadot2011.pdf" >}}
+{{< pdf "Kauriinkaadot 2011" "/tilastot/kauriinkaadot2011.pdf" >}}
 {{< /pdf-vuosi >}}
 
 {{< /tilastot-kolumni >}}

@@ -1,4 +1,4 @@
-baseURL = "https://kalmyfi.github.io/sivutv2/"
+baseURL = "https://www.kalmy.fi/"
 locale = "fi-fin"
 title = "Kalmy Ry"
 theme = "hugo-arcana"
@@ -15,6 +15,7 @@ copyright = "© Kalmy Ry."
     description = "Kalajoen Metsästysyhdistys Ry."
     images = ['images/metaimage.jpg']
     show_post_dates = false
+    enableSourceMaps = false
 
     
     [[params.social]]

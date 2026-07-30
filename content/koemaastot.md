@@ -44,7 +44,7 @@ weight: 50
 </div>
 
 <p class="kartta-linkki">
-  <a href="/sivutv2/muut/aluekartta.pdf" target="_blank" rel="noopener">
+  <a href="/muut/aluekartta.pdf" target="_blank" rel="noopener">
     <i class="fas fa-file-pdf"></i> Lataa kartta PDF
   </a>
 </p>
@@ -61,7 +61,7 @@ weight: 50
       maxBounds: bounds,
       maxBoundsViscosity: 1.0
     });
-    L.imageOverlay('/sivutv2/images/koemaastot.jpg', bounds).addTo(map);
+    L.imageOverlay('/images/koemaastot.jpg', bounds).addTo(map);
     map.fitBounds(bounds, { padding: [0, 0] });
   });
 </script>

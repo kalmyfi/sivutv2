@@ -10,4 +10,4 @@ Kalajoen Metsästysyhdistys Ry:n kesäkokous pidettiin 11.6.2026 Kalmyn metsäst
 
 Kauris on rauhoitettu metsästykseltä tulevalla kaudella. Rauhoituspäivät ja lopulliset kiintiöt tarkennetaan myöhemmin.
 
-[Lue koko pöytäkirja](/sivutv2/poytakirjat/)
+[Lue koko pöytäkirja](/poytakirjat/)
