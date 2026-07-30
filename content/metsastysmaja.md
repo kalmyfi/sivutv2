@@ -11,11 +11,29 @@ Majaa on vuosien mittaan pariin kertaan remontoitu.
 
 ### Ampumapaikka
 
-Ampumarata on 300m pitkä. Ampumapaikkaa on kunnostettu viimeksi vuonna 2024 korottamalla vallit sekä uusimalla ampumataulut.
+Ampumarata on 300 metriä pitkä. Ampumapaikkaa on kunnostetaan ja kehitetään jatkuvasti, viimeisimpänä vallien korotus ja taulukehikkojen uusiminen. Kunnostustoimenpiteillä on parannettu radan turvallisuutta, käytettävyyttä ja pitkäikäisyyttä.
 
-Ampumapaikkamaksu 15 €/vuosi, poislukien Kalmyn jäsenet ja alle 15
-vuotiaat ampumapaikan käyttäjät.
+Taustavallit sijaitsevat 100 metrin ja 300 metrin etäisyydellä ampumakatoksesta. Näillä etäisyyksillä ovat käytössä taulukehikot sekä Hardox-teräksiset maalitaulut. Lisäksi 200 metrin etäisyydellä sijaitsee siirrettävä Hardox-taulukehikko.
 
-Savikiekkoammunta haulikolla on kielletty!
+Ampumaradan ylläpitoa ja kehittämistä on tuettu riistanhoitoyhdistyksen avustuksella sekä reserviläisten talkoo- ja tukipanoksella. Lisäksi radan kehittämiseen haetaan julkista hankerahoitusta.
 
-Maksu tilille FI91 4912 6020 0077 83. Maksun viesti: Ampumapaikkamaksu ja ampujan nimi.
+**Ampumapaikkamaksu**
+
+Vapaaehtoinen ampumapaikkamaksu on 15 euroa vuodessa.
+
+Maksusta ovat vapautettuja:
+
+- Kalmyn jäsenet
+- Alle 15-vuotiaat ampumapaikan käyttäjät
+
+Ampumapaikkamaksu käytetään ampumaradan rakenteiden huoltoon, kunnossapitoon ja kehittämiseen.
+
+Maksu tilille FI91 4912 6020 0077 83. Viesti: Ampumapaikkamaksu ja ampujan nimi.
+
+**Käyttöehdot**
+
+Savikiekkoammunta haulikolla on ampumapaikalla kielletty.
+
+Jokainen käyttäjä vastaa osaltaan ampumapaikan siisteydestä ja turvallisesta käytöstä. Ampumarataa tulee käyttää voimassa olevien turvallisuusmääräysten mukaisesti.
+
+Ratavastaava: Jouko Arvo, puh. 040-5042809
