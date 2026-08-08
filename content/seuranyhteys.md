@@ -43,7 +43,7 @@ weight: 100
     </div>
   </div>
   <div class="yhteys-card">
-    <div class="yhteys-card__rooli">Rahastonhoitaja</div>
+    <div class="yhteys-card__rooli">Rahastonhoitaja, Jäsen</div>
     <div class="yhteys-card__nimi">Mikko Kaarlela</div>
     <div class="yhteys-card__yhteystiedot">
       <a href="tel:+358445355587"><i class="fas fa-phone"></i> 044-5355587</a>
@@ -75,10 +75,7 @@ weight: 100
   </div>
   <div class="yhteys-card">
     <div class="yhteys-card__rooli">Jäsen</div>
-    <div class="yhteys-card__nimi">Arto Rahkola</div>
-    <div class="yhteys-card__yhteystiedot">
-      <a href="tel:+358405839358"><i class="fas fa-phone"></i> 040-5839358</a>
-    </div>
+    <div class="yhteys-card__nimi">Ville Vähäsarja</div>
   </div>
   <div class="yhteys-card">
     <div class="yhteys-card__rooli">Ampumayhteyshenkilö</div>
