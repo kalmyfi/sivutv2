@@ -10,35 +10,36 @@ tags:
 
 ## Viimeisin pöytäkirja
 
-### Kesäkokous 2026 — 11.6.2026
+### Ylimääräinen kokous — 6.8.2026
 
-Kalajoen Metsästysyhdistys Ry:n yleinen kesäkokous 11.6.2026 klo 19.00 Kalmyn metsästysmajalla. Läsnä 16 jäsentä.
+Kalajoen Metsästysyhdistys Ry:n ylimääräinen kokous 6.8.2026 klo 19.00 Kalmyn metsästysmajalla. Läsnä 16 jäsentä.
 
-**Kokousvirkailijat:** puheenjohtaja Jouko Arvo, sihteeri Hilla Kaarlela, pöytäkirjantarkastajat Reijo Okkonen ja Jouni Alho.
+**Kokousvirkailijat:** puheenjohtaja Tuukka Saarela, sihteeri Hilla Kaarlela, pöytäkirjantarkastajat/ääntenlaskijat Reijo Okkonen ja Jouni Alho.
 
-**Uusi koejäsen:** Luukas Korva
+**Riistakolmiolaskenta** 1.8. peruttiin. Koejäsenten talkoovelvoitteet edelleen voimassa.
 
-**Riistakolmiolaskenta** pidetään lauantaina 1.8. Vetäjänä Juhani Kattilakoski.
+**Metsästysajat** valtion aikojen mukaan. Ei kaurispukin kevätpyyntiä.
 
-**Metsästysajat** valtion aikojen mukaan. Tarkennetaan myöhemmin.
+**Rauhoitusalueet** nettisivujen kartan mukaisesti (mm. Esalankangas, Ilkka Myllylän monttu, Kaakkurinneva, Ojalan rauhoitusalue, Konnunsuo, Ainalin palsta, Nassakka sekä Mehtäkyläntien ja Oulaistentien välinen alue) — kartta päivitetään seuran nettisivuilla. Rusakon ja ketun pyynti rauhoitusalueilla sallittu WhatsAppissa etukäteen sovittuina yhteisjahtipäivinä yhteistyössä maanomistajien kanssa.
 
-**Rauhoitusalueet** nettisivujen kartan mukaisesti. Uutena alueena lisätty Isohaantien ja Samunevantien rajaama nurkkaus (Nassakka) sekä Mehtäkyläntien ja Oulaistentien välinen alue. Rauhoitusalueilla rusako- ja kettupyynti sallittu sovittuina yhteisjahtipäivinä.
+**Rauhoituspäivät:** jouluaatto ja joulupäivä.
 
-**Rauhoituspäivät** ja **saaliskiintiöt** tarkennetaan myöhemmin. Kauris rauhoitettu metsästykseltä.
+**Koemaastovaraukset** syksylle 2026 sovittu (LINT, HIRV, AJOK ja DRAJ -kokeet elo–joulukuulle) — katso tarkka lista koko pöytäkirjasta.
 
-**Leader-hanke:** Kesäkokous valtuutti johtokunnan hakemaan Rieska-Leader -hanketta Haapakankaan ampumapaikan kehittämiseksi.
+**Saaliskiintiöt:** jänis/rusakko ja pyy ilman kiintiötä. Kauris rauhoitettu kokonaan. Metsäkanalinnut: 2 mustaa teertä, 1 ukkometso — koppelo ja naarasteeri rauhoitettu, teeren ja metson peltopyynti kielletty. Hanhi valtion kiintiön mukaan. Johtokunnalla oikeus muuttaa kiintiöitä tarvittaessa.
 
-**Muuta:** Vesilintumetsästyksessä luotiaseen käyttö kielletty merenranta-alueilla koko kauden ajan sekä peltoalueilla syyskuun alkuun asti. Ylilammen kosteikkohanke selvittelyssä (Metka-rahoitus).
+**Muuta:** Hirvikokous majalla la 5.9. klo 15.00, aloitetaan ammunnoilla (6 lks 75 m). Leader-hankehakemus jätetty, toteutusta ei aloiteta ennen päätöstä. Vesilintumetsästyksessä luotiaseen käyttö kielletty merenranta-alueilla koko kauden ajan sekä peltoalueilla syyskuun alkuun asti.
 
-Kokous päättyi klo 20.18.
+Kokous päättyi klo 19.42.
 
-[Lue koko pöytäkirja PDF-muodossa](/poytakirjat/kesakokous2026.pdf)
+[Lue koko pöytäkirja PDF-muodossa](/poytakirjat/ylimaarainen-kesakokous2026.pdf)
 
 ---
 
 ## Pöytäkirjat PDF-muodossa
 
 {{< pdf-vuosi "2026" >}}
+{{< pdf "Ylimääräinen kokous 6.8.2026" "/poytakirjat/ylimaarainen-kesakokous2026.pdf" >}}
 {{< pdf "Kesäkokous 2026" "/poytakirjat/kesakokous2026.pdf" >}}
 {{< pdf "Talvikokous 2026" "/poytakirjat/talvikokous2026.pdf" >}}
 {{< /pdf-vuosi >}}
