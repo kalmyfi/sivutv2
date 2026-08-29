@@ -1,0 +1,26 @@
+<section class="wrapper style2 intro-stats">
+    <div class="container">
+        <div class="intro-stats-grid">
+            <div class="intro-stats-text">
+                <h2>{{ .item.heading }}</h2>
+                {{- $html := .item.contents | markdownify }}
+                {{- if (findRE "<p(?: [^>]*)?>" $html) }}
+                    {{ $html }}
+                {{- else -}}
+                    <p>{{ $html }}</p>
+                {{- end }}
+            </div>
+            <div class="intro-stats-list">
+                {{- range .item.stats }}
+                    <div class="stat">
+                        <i class="icon solid major {{ .icon }}"></i>
+                        <div class="stat-text">
+                            <h3>{{ .title }}</h3>
+                            <p>{{ .content | markdownify }}</p>
+                        </div>
+                    </div>
+                {{- end }}
+            </div>
+        </div>
+    </div>
+</section>

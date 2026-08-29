@@ -1,7 +1,7 @@
 /* Custom styles for Kalmy */
 
-/* Modern font import */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+/* Modern font import: Fraunces (display, headings) + Inter (body/UI) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap');
 
 /* Base typography */
 body {
@@ -13,6 +13,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', 'Source Sans Pro', sans-serif;
   font-weight: 600;
   letter-spacing: -0.02em;
+}
+
+h1, h2 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 /* Smoother navigation - dark forest */
@@ -58,29 +64,192 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   background: linear-gradient(
     to bottom,
-    rgba(30, 42, 27, 0.3) 0%,
-    rgba(30, 42, 27, 0.1) 50%,
-    rgba(30, 42, 27, 0.4) 100%
+    rgba(20, 28, 18, 0.25) 0%,
+    rgba(20, 28, 18, 0.05) 45%,
+    rgba(20, 28, 18, 0.75) 100%
   );
 }
 
-/* Cards and highlights */
-.box.highlight {
+/* Hero: floating frosted panel, stacked headline -> subline -> gold
+   divider -> button (layouts/partials/homepage/banner.html renders
+   these as separate elements in that order). */
+#banner header {
+  width: auto;
+  background: rgba(20, 28, 18, 0.55);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  text-align: left;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 30em;
+  margin: 0 0 2.5em 5%;
+  padding: 2em 2.5em;
+  box-sizing: border-box;
+}
+
+#banner header h2 {
+  display: block;
+  font-size: 2.25em;
+  line-height: 1.2;
+  color: #fff;
+  margin: 0;
+}
+
+#banner header .subline {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #c4a35a;
+  margin: 0.6em 0 0 0;
+}
+
+#banner header .divider {
+  display: block;
+  width: 48px;
+  height: 3px;
+  background: #c4a35a;
+  margin: 1.2em 0;
+}
+
+#banner header .button {
+  margin: 0;
+}
+
+@media screen and (max-width: 736px) {
+  #banner header {
+    max-width: none;
+    margin: 0 1em 2em 1em;
+    padding: 1.5em 1.75em;
+  }
+
+  #banner header h2 {
+    font-size: 1.5em;
+  }
+}
+
+/* Intro + stats side by side: both the welcome text and the stats are
+   floating cards with their own shadow and gentle bob, so the two
+   sides match instead of text sitting flat on the background. */
+.intro-stats-grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 3em;
+  align-items: center;
+}
+
+.intro-stats-text {
   background: #fff;
-  border-radius: 12px;
-  padding: 2em 1.5em;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 12px rgba(0,0,0,0.04);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: 16px;
+  padding: 2.2em 2.4em;
+  box-shadow:
+    0 2px 4px rgba(20, 28, 18, 0.06),
+    0 10px 20px rgba(20, 28, 18, 0.1),
+    0 30px 60px rgba(20, 28, 18, 0.18);
+  animation: stat-float 6.5s ease-in-out infinite;
+  transition: scale 0.25s ease, box-shadow 0.25s ease;
 }
 
-.box.highlight:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1), 0 8px 24px rgba(0,0,0,0.06);
+.intro-stats-text:hover {
+  animation-play-state: paused;
+  scale: 1.015;
+  box-shadow:
+    0 2px 4px rgba(20, 28, 18, 0.08),
+    0 14px 28px rgba(20, 28, 18, 0.14),
+    0 40px 80px rgba(20, 28, 18, 0.24),
+    0 0 0 1px rgba(196, 163, 90, 0.3);
 }
 
-.box.highlight .icon {
-  color: #4a6741;
+.intro-stats-text p {
+  color: #4a4a4a;
+  line-height: 1.7;
+}
+
+.intro-stats-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4em;
+}
+
+.intro-stats-list .stat {
+  display: flex;
+  align-items: center;
+  gap: 1.1em;
+  background: #2d3a29;
+  border-radius: 14px;
+  padding: 1.2em 1.4em;
+  box-shadow:
+    0 2px 4px rgba(20, 28, 18, 0.1),
+    0 10px 20px rgba(20, 28, 18, 0.16),
+    0 28px 48px rgba(20, 28, 18, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  animation: stat-float 6s ease-in-out infinite;
+  transition: scale 0.25s ease, box-shadow 0.25s ease;
+}
+
+.intro-stats-list .stat:nth-child(1) { animation-delay: 0s; }
+.intro-stats-list .stat:nth-child(2) { animation-delay: 0.7s; }
+.intro-stats-list .stat:nth-child(3) { animation-delay: 1.4s; }
+
+.intro-stats-list .stat:hover {
+  animation-play-state: paused;
+  scale: 1.04;
+  box-shadow:
+    0 4px 8px rgba(20, 28, 18, 0.14),
+    0 16px 32px rgba(20, 28, 18, 0.22),
+    0 36px 64px rgba(20, 28, 18, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.12),
+    0 0 0 1px rgba(196, 163, 90, 0.4);
+}
+
+@keyframes stat-float {
+  0%, 100% { translate: 0 0; }
+  50% { translate: 0 -9px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .intro-stats-list .stat {
+    animation: none;
+  }
+}
+
+.intro-stats-list .icon.major {
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  width: auto;
+  height: auto;
+  line-height: normal;
+  flex-shrink: 0;
+  color: #c4a35a;
+  margin: 0;
+}
+
+.intro-stats-list .icon.major:before {
+  font-size: 30px;
+}
+
+.intro-stats-list .stat-text h3 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: 1.8em;
+  font-weight: 600;
+  color: #fff;
+  margin: 0;
+}
+
+.intro-stats-list .stat-text p {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.88em;
+  margin: 0.2em 0 0 0;
+}
+
+@media screen and (max-width: 900px) {
+  .intro-stats-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Post cards */
@@ -98,7 +267,15 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1), 0 8px 24px rgba(0,0,0,0.06);
 }
 
+.box.post .image {
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
 .box.post .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   border-radius: 8px;
 }
 
@@ -145,14 +322,25 @@ h1, h2, h3, h4, h5, h6 {
   padding: 4em 0;
 }
 
+section header.major {
+  max-width: 700px;
+  margin: 0 auto 2em auto;
+  text-align: left;
+}
+
 section header.major h2 {
   font-size: 2em;
   font-weight: 700;
+  text-align: left;
 }
 
 section header.major p {
-  max-width: 700px;
-  margin: 0 auto;
+  max-width: none;
+  margin: 0;
+  border-top: none;
+  padding-top: 0;
+  position: static;
+  text-align: left;
   line-height: 1.7;
   color: #4a4a4a;
 }
