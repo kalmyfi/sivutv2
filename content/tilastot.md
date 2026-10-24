@@ -38,7 +38,7 @@ image:
     data: {
       labels: ['2013','2014','2015','2016','2017','2018','2019','2020','2021','2022','2023','2024','2025','2026'],
       datasets: [{
-        data: [7,25,37,44,27,40,25,22,19,15,13,12,20,11],
+        data: [7,25,37,44,27,40,25,22,19,15,13,12,20,16],
         backgroundColor: 'rgba(45,58,41,0.8)',
         borderColor: 'rgba(45,58,41,1)',
         borderWidth: 1,
@@ -69,13 +69,15 @@ image:
 {{< tilastot-grid >}}
 
 {{< tilastot-kolumni >}}
-{{% kausi otsikko="Hirvenkaadot 2026" tila="kaynnissa" yhteensa="11 hirveä (7 urosta, 1 naarasta, 3 vasaa)" %}}
+{{% kausi otsikko="Hirvenkaadot 2026" tila="kaynnissa" yhteensa="16 hirveä (9 urosta, 1 naarasta, 6 vasaa)" %}}
 | Päivämäärä | Paikka | Uros | Naaras | Vasa |
 | :--------: | :----: | :--: | :----: | :--: |
 | 3.10.2026  |        |  3   |        |  1   |
 | 4.10.2026  |        |  1   |        |  1   |
 | 10.10.2026 |        |  2   |        |  1   |
 | 11.10.2026 |        |  1   |   1    |      |
+| 17.10.2026 |        |  2   |        |  1   |
+| 18.10.2026 |        |      |        |  2   |
 {{% /kausi %}}
 {{< /tilastot-kolumni >}}
 
